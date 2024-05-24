@@ -1,0 +1,24 @@
+{
+    "users": [
+      {
+        "username": "user",
+        "password": "163d638cef03b7bdf9cd3115398375420e4b1119d41aad82783f3064d06ef3c6",
+        "id": 1
+      },
+      {
+        "username": "admin",
+        "password": "f10053ecd2e9e03327ac1ca371f1a10f9b0d990d8d0968a46dab9584c0d10ff9",
+        "id": 2
+      },
+      {
+        "username": "user2",
+        "password": "8941e8fe1136547674d83c83a997edf18d900eddc2aa5ffeeb8c08b70d108ad0",
+        "id": 3
+      },
+      {
+        "username": "user3",
+        "password":  "857d9fea6c4a8cafb20444b63516756b3b2ca21b13f2e5fb2b0bec0cc9a14b09",
+        "id": 4
+      }
+    ]
+  }
